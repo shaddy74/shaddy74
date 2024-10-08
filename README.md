@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **LibraryManagementSystem**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [https://shaddy74.github.io/Portfolio_Shadab.github.io/](https://shaddy74.github.io/Portfolio_Shadab.github.io/)
 
