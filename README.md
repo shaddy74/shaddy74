@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://shaddy74.github.io/Portfolio_Shadab.github.io/](https://shaddy74.github.io/Portfolio_Shadab.github.io/)
 
-- 💬 Ask me about **C#, JavaScript, MERN Stack**
+- 💬 Ask me about **C, JavaScript, MERN Stack**
 
 - 📫 How to reach me **sadab20012005@gmail.com**
 
